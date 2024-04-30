@@ -1,4 +1,4 @@
-#Pharmacovigilance
+## Pharmacovigilance:
 
 ## Overview
 This project aims to build a system that suggests suitable drugs based on a patient's medical condition while also providing detailed information about the effects and potential side effects of the recommended drugs. The system utilizes Natural Language Processing (NLP) techniques to analyze patient data and drug information.
